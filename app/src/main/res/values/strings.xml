@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StarFood</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="swipe_left_for_register">Lướt qua trái để Đăng ký</string>
+    <string name="login">Đăng nhập</string>
+    <string name="password">Password</string>
+    <string name="e_mail">Email</string>
+    <string name="tag">Hãy tham gia cùng chúng tôi! \nĐể trải nghiệm sự tiện lợi</string>
+    <string name="swipe_right_for_login">Lướt qua phải để đăng nhập</string>
+    <string name="register">Đăng ký</string>
+    <string name="re_type_password">Re-type Password</string>
+    <string name="your_name">Full Name</string>
+</resources>
